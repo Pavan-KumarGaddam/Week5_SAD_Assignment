@@ -12,11 +12,11 @@ You can install Django using pip if it's not installed yet:
 pip install Django
 
 
-**Setup and Installation
-**
+**Setup &Installation**
+
 Follow these steps to get the app running on your computer:
-**1. Clone the Repository
-**
+**"1.Clone the Repository"**
+
 First, download the project to your computer by running this command:
 
 git clone https://github.com/Pavan-KumarGaddam/Week5_SAD_Assignment.git
