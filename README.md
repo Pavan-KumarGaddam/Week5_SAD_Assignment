@@ -14,7 +14,6 @@ pip install Django
 
 **Setup and Installation
 **
-
 Follow these steps to get the app running on your computer:
 **1. Clone the Repository
 **
@@ -36,13 +35,9 @@ python -m venv venv
 
 Now, activate the virtual environment:
 
-    On Windows:
+    On Windows: venv\Scripts\activate
 
-venv\Scripts\activate
-
-On macOS/Linux:
-
-    source venv/bin/activate
+    On macOS/Linux: source venv/bin/activate
 
 **4. Install Django**
 
