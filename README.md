@@ -15,7 +15,9 @@ pip install Django
 **Setup &Installation**
 
 Follow these steps to get the app running on your computer:
+
 **"1.Clone the Repository"**
+
 
 First, download the project to your computer by running this command:
 
